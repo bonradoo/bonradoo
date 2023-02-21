@@ -1,30 +1,20 @@
+# About me 🤙
 
-<!--
-**bonradoo/bonradoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Konrad, a software developer and second-year cybersecurity student hailing from Wrocław, Poland.
 
-Here are some ideas to get you started:
+## Projects 🎛️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# About me
+At present, I am engaged in the development of a personal project named [Financial Tracker](https://github.com/bonradoo/financial-tracker), which is a Python-based tool for keeping a tab on personal finances and investments. Initially, the project began as a terminal application, then transitioned to a custom tkinter interface, and now I'm in the process of reworking it using PyQT5.
 
-Hello there! My name is Konrad and I am a second-year cybersecurity student and software developer based in Wrocław, Poland.
+In addition to my current project, I am also studying cybersecurity at Wrocław University of Technology, where I am learning about various topics including network security, cryptography, and ethical hacking. In my previous semester, I delved into the intricacies of the Bash scripting language as a part of one of my courses. For the final project, I was tasked with developing a simulation for process scheduling and page replacement algorithms, which can be accessed [here](https://github.com/bonradoo/operating-systems).
 
-## Projects
-
-Currently, I am working on a personal project called [Financial Tracker](https://github.com/bonradoo/financial-tracker), which is a Python application for tracking and managing personal finances and investments.
-
-I am also in the process of learning Bash scripting for one of my classes. You can find it [here](https://github.com/bonradoo/operating-systems).
-
-In addition to my current project, I am also studying cybersecurity at Wrocław University of Technology, where I am learning about various topics including network security, cryptography, and ethical hacking.
-
-## Connect with me
+## Connect with me 📧
 - [Linkedin](https://www.linkedin.com/in/konradbik)
-- [Dev.to](https://dev.to/bonradoo)
+<!-- - [Dev.to](https://dev.to/bonradoo) -->
+
+
+
+
+
+<!-- ![GitHub metrics](https://metrics.lecoq.io/bonradoo) -->
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=bonradoo)  -->
