@@ -5,7 +5,7 @@ Hello, world! I'm **Konrad** from Wrocław, Poland. Currently, I am a software d
 I have been involved in several projects that allowed me to explore different aspects of software development and cybersecurity. Here's a snapshot of my work:
 
 ### Carrige weight app ```private``` 🚛
-A Flask-based web application leveraging MongoDB and MsSQL Server as the databases. This application enables users to manage and track carriage data with features such as user authentication and QR code scanning for efficient data entry. Tech stack used: Flask, MongoDB, MsSQL Server, HTML, CSS, JavaScript, and jsQR library.
+A Flask-based web app developed for a Polish brown coal mine to optimize loading capabilities. I handled the entire design, infrastructure, development, and implementation. The app uses MongoDB and MsSQL to manage RFID reads, weight data, and user info, leading to a 12% improvement in loading efficiency. Tech stack: Flask, MongoDB, MsSQL, HTML, CSS, JavaScript.
 
 ### [Financial Tracker](https://github.com/bonradoo/financial-tracker) 💵
 A Python application built with the PySide2 library that provides a user-friendly interface for managing personal expenses and income. It features a graphical representation of expenses through pie charts, allowing users to visualize their spending habits.
@@ -16,7 +16,7 @@ The project is web application utilizing Flask, MongoDB, HTML, and Tailwind CSS,
 ## Connect With Me 🌐
 I always enjoy making new connections and talking about software development and cybersecurity. Feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/konradbik/)
+[LinkedIn](https://www.linkedin.com/in/konradbik/) </br>
 [Portfolio](https://konradbik.com)
 
 

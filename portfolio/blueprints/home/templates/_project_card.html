@@ -16,7 +16,7 @@
             {% endif %} -->
             <p class="text-white text-sm">{{ project.details }}</p>
             <!-- Fixed Button -->
-            <a href="{{ project.url }}" class="block mt-4 bg-[#ffc300] text-[#000814] text-center text-bold py-2 px-4 rounded hover:bg-[#ffd60a] transition duration-300">
+            <a href="{{ url_for(project.url) }}" class="block mt-4 bg-[#ffc300] text-[#000814] text-center text-bold py-2 px-4 rounded hover:bg-[#ffd60a] transition duration-300">
                 Learn More
             </a>
         </div>

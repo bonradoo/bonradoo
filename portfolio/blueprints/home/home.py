@@ -7,20 +7,20 @@ PROJECTS = [
             "title": "CARGO-PRO",
             "details": "Project Details: A logistics management system.",
             "image_url": "static/cargo-pro.png",
-            "url": "https://cargo-pro.pl"
+            "url": "cargopro.cargopro_page"
         },
         {
             "title": "Konrad Bik",
             "details": "Portfolio: Cybersecurity specialist and sport enthusiast.",
             "image_url": "static/konrad-bik.jpg",
             "logo": "static/logo_yellow.png",
-            "url": "https://konradbik.com"
+            "url": "portfolio.portfolio_page"
         },
         {
             "title": "DEEPFAKEDETECTOR",
             "details": "Project Details: AI-powered deepfake detection tool.",
             "image_url": "static/deepfakedetector.png",
-            "url": "https://image.deepfakedetector.pl",
+            "url": "dfd.dfd_page",
             "hero_image": "static/deepfakedetector.png"
         }
     ]
