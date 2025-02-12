@@ -14,7 +14,7 @@ A Flask-based web application developed for **Kopalnia Węgla Brunatnego Sieniaw
 
 ### Deepfake Detector 🤖
 
-As the team lead, I formulated comprehensive project guidelines, established the core structure, and authored a significant portion of the codebase. The project utilizes machine learning detection models to identify deepfake content, enhancing capabilities in cybersecurity.
+I formulated comprehensive project guidelines, established the core structure, and authored a significant portion of the codebase. The project utilizes machine learning detection models to identify deepfake content, enhancing capabilities in cybersecurity.
 
 - **Tech Stack:** FastAPI, Google Cloud Platform, MongoDB, HuggingFace, AI, GitHub
 
