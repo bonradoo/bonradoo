@@ -1,40 +1,32 @@
 # About Me 👨‍💻
 
-Hello, world! I'm **Konrad** from Wrocław, Poland. I'm a software developer and a fourth-year cybersecurity student at Wrocław University of Science and Technology, nearing graduation. My bachelor's thesis focuses on **"Threat analysis and mitigation in a web application for a brown coal mining company,"** reflecting my passion for securing real-world applications.
+Hi! I'm **Konrad**, a cybersecurity graduate (BEng) from Wrocław University of Science and Technology, passionate about securing applications and systems. Currently, I'm aspiring to enhance my career in cybersecurity, focusing on application security, threat hunting, and red teaming.
 
 ## My Projects 💻
 
-I've been involved in several projects that have allowed me to explore different facets of software development and cybersecurity. Here's a snapshot of my work:
+Using technologies like **Flask, FastAPI, MongoDB, MsSQL, Google Cloud Platform, and Tailwind CSS**, I've developed several projects including:
 
-### Cargo-Pro.pl *(Private)* 🚛
+- **Cargo-Pro.pl** – Flask-based logistics optimization app improving coal carriage efficiency by 12%.
+- **Deepfake Detector** – AI-powered FastAPI app for detecting manipulated media.
+- [**Financial Tracker**](https://github.com/bonradoo/financial-manager) – PySide2 desktop converted to Web application for personal finance management.
+- **StreamHub** – Web platform for movie reviews and watchlists, integrated with OMDB API.
 
-A Flask-based web application developed for **Kopalnia Węgla Brunatnego Sieniawa**, a Polish brown coal mine, to optimize carriage loading capabilities. As a one-person team, I handled the entire design, infrastructure, development, and implementation. The app uses MongoDB and MsSQL to manage RFID reads, weight data, and user information, leading to a **12% improvement in loading efficiency**. This project taught me the value of applying technology to optimize industrial processes.
+## Capture The Flag (CTF) 🚩
 
-- **Tech Stack:** Flask, MongoDB, MsSQL, HTML, CSS, JavaScript, Google Cloud Platform
+I'm an avid CTF enthusiast, actively participating to sharpen my skills in practical cybersecurity scenarios.
 
-### Deepfake Detector 🤖
+- [CTFtime Profile](https://ctftime.org/user/222088)
+- Team: [viole(n)t](https://ctftime.org/team/303156)
 
-I formulated comprehensive project guidelines, established the core structure, and authored a significant portion of the codebase. The project utilizes machine learning detection models to identify deepfake content, enhancing capabilities in cybersecurity.
+## Current Ventures and Future Plans 🚀
 
-- **Tech Stack:** FastAPI, Google Cloud Platform, MongoDB, HuggingFace, AI, GitHub
+- Conducting security research and practical threat hunting.
+- Preparing for upcoming CTF competitions.
+- Deepening my skills in red teaming methodologies.
 
-### [Financial Tracker](https://github.com/bonradoo/financial-tracker) 💵
+## Let's Connect 🌐
 
-A Python application built with the PySide2 library that provides a user-friendly interface for managing personal expenses and income. It features graphical representations of expenses through pie charts, allowing users to visualize their spending habits.
-
-### StreamHub🎬
-
-A web application utilizing Flask, MongoDB, HTML, and Tailwind CSS, tailored for movie database management. It offers a platform to post movie reviews, create personalized watchlists, and share these lists with friends or the public. It incorporates the OMDB API, enabling users to discover and add new films.
-
-## Connect With Me 🌐
-
-I always enjoy making new connections and talking about software development and cybersecurity. Feel free to reach out!
+I'm always excited to collaborate and discuss cybersecurity. Feel free to reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/konradbik/)
 - [Portfolio](https://konradbik.com)
-
-
-
-<!-- - [Dev.to](https://dev.to/bonradoo) -->
-<!-- ![GitHub metrics](https://metrics.lecoq.io/bonradoo) -->
-<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=bonradoo)  -->
